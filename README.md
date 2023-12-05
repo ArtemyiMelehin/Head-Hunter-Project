@@ -31,6 +31,11 @@
 
 Важность этого этапа можно понять из поговорки: "Мусор на входе - мусор на выходе", что означает: нужно максимально "причёсывать" данные, чтобы результат был стоящим.
 
+## Данные
+
+* https://lms-cdn.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip
+* https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing
+
 ## Используемые зависимости
 * Python (3.9):
     * [numpy (1.20.3)](https://numpy.org)
